@@ -1,0 +1,99 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background: #efeee7;
+}
+
+header {  background: #333;}
+
+h1 {
+  padding: 20px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+h2 { font-size: 24px;}
+
+a {color: #d21034;}
+
+#summary h1{
+  font-size: 26px;
+  text-align: left;
+  color: lightseagreen;
+  font-weight: bold;
+  padding: 15px;
+}
+
+#visualizations h1{
+  font-size: 26px;
+  text-align: left;
+  color: lightseagreen;
+  font-weight: bold;
+  padding: 15px;
+}
+
+#summary{
+  width: 590px;
+  float: left;
+  background-color: white;
+  margin-top:50px;
+}
+
+#visualizations{
+  width: 500px;
+  float: right;
+  background-color: white;
+  margin-top:50px;
+}
+
+#compare{
+  height: 1250px;
+  background-color: white;
+  margin-top:50px;
+}
+
+#data{
+  height: 5000px;
+  width: 1300px;
+  background-color: white;
+  margin-top:50px;
+  align-content: center;
+  padding: 15px;
+}
+
+#data h1{
+  font-size: 30px;
+  text-align: left;
+  color: lightseagreen;
+  font-weight: bold;
+  padding: 15px;
+}
+
+#data p{
+  font-size: 16px;
+  padding: 15px;
+}
+
+#compare h1{
+  font-size: 26px;
+  text-align: left;
+  color: lightseagreen;
+  font-weight: bold;
+  padding: 15px;
+}
+#compare p{
+  font-size: 16px;
+  padding: 15px;
+}
+#compare h2{
+  font-size: 18px;
+  color: lightseagreen;
+  font-weight: bold;
+  text-align: center;
+}
